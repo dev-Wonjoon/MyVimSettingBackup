@@ -1,7 +1,5 @@
 filetype off
 
-execute pathogen#infect()
-
 set nu
 set hlsearch
 set cindent
